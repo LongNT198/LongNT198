@@ -1,4 +1,4 @@
-[Your project Title]
+FOTOLAB SHOP
 =======================================
 + Supervisor		: LÊ THANH NHÂN
 + Semester		: I	
