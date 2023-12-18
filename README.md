@@ -7,7 +7,8 @@ FOTOLAB SHOP
 + List Of Member:
 	1. Ngô Trường Long 	(Student1513437)
 	2. Lại Thị Kim Anh	(Student1507642)
-	3. Nguyễn Hữu Hoàng	(Student1513399)	
+	3. Nguyễn Hữu Hoàng	(Student1513399)
+
 =======================================
 Documentations : https://github.com/L3nhan/doodle_group01/tree/main/Documentations
 =======================================
