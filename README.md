@@ -2,12 +2,12 @@
 =======================================
 + Supervisor		: LÊ THANH NHÂN
 + Semester		: I	
-+ Batch No		: [Your class name]	
-+ Group No:		: [your group no]
++ Batch No		: T5.2309.E0	
++ Group No:		: 06
 + List Of Member:
-	1. Lê Văn A  	(Student0000001)
-	2. Trần Văn Sê	(Student0000002)
-	3. Nguyễn Thị Bê 	(Student0000003)	
+	1. Ngô Trường Long 	(Student1513437)
+	2. Lại Thị Kim Anh	(Student1507642)
+	3. Nguyễn Hữu Hoàng	(Student1513399)	
 =======================================
 Documentations : https://github.com/L3nhan/doodle_group01/tree/main/Documentations
 =======================================
